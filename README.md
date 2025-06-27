@@ -19,3 +19,14 @@ pip install pandas fpdf
 1)Rainbow CSV (in vscode)
 2)vscode-pdf
 
+<h3>The following Python packages:</h3>
+
+pandas – for reading and analyzing CSV data
+
+fpdf – for generating PDF reports
+
+openai – if the script uses GPT for report generation
+
+
+<h1>Thank you!!!</h1>
+
