@@ -1,3 +1,10 @@
+Name=AKHIL KUMAR SHARMA
+Company=CODETECH IT SOLUTION
+ID=CT08DK541
+Domain=PYTHON PROGRAMMING
+Duration=April to June 2025
+Mentor=Neela Santosh Kumar
+<hr>
 <h1>Automated Report Generator</h1>
 
 <h2>🚀 Features</h2>
